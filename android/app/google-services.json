@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133188875849",
+    "project_id": "mcchris-food-app",
+    "storage_bucket": "mcchris-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133188875849:android:46da98eb900e02ff46f198",
+        "android_client_info": {
+          "package_name": "com.os.mcchrisrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133188875849-0888ip3dss4petgic6kql4qju0qdhrni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50uIdI0bnIbtGcNrRC0WDpjXcwT764NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133188875849-0888ip3dss4petgic6kql4qju0qdhrni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
